@@ -1,21 +1,13 @@
 # Site settings
-title: "On Software Engineering, Mathematics<br>and Philosophy"
-author: "Hugo Sereno Ferreira"
-description: "This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order."
-keywords: "Software Engineering, Mathematics, Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
-biography: "I am a Professor of Software Engineering at the <a href='http://www.fe.up.pt'>Faculty of Engineering</a>, University of Porto and Senior Researcher at <a href='https://www.inesctec.pt'>INESC TEC</a>. Here you can find my <a href='/assets/thesis.pdf'>PhD Thesis</a> and my <a href='/assets/cv.pdf'>Résumé</a>."
-colophon: "© MMXIII — MMXVI by Hugo Sereno Ferreira.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
+title: "On Software and Saving Faith"
+author: "Aaron Yoo"
+description: "This blog is a notepad for my ideas and an incubator for my thoughts. Topics generally center on software and philosophy. The ideas found here are often half-baked and in no way represent the interests of my employer or any organization I am affiliated with."
+biography: "I am a software engineer and an ambassador for Christ. I think both of these things are well reflected in the content of my blog."
+colophon: "©2020 Aaron Yoo. Theme by Hugo Sereno Ferreira"
 
 baseurl: ""
-url: "http://hugosereno.eu"
+url: "aarontyoo.com"
 
-twitter_username: ferreira_hugo
-github_username: hugoferreira
-linkedin_username: hugoserenoferreira
-facebook_username: hugo.sereno.ferreira
-google-analytics: UA-69060-5
-
-simple_search: http://google.com/search
 markdown: kramdown
 highlighter: rouge
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:year-:month-:day-:title/
