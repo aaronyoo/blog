@@ -1,19 +1,16 @@
 <footer>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.5.0/mermaid.min.js"></script>
   <div class="container">
-    <div class="row biography">
-      <div class="col-sm-6">
-        <h2>who am i</h2>
-        <p>{{ site.biography }}</p>
-      </div>
-      <div class="col-sm-6">
-        <h2>what is this</h2>
-        <p>{{ site.description }}</p>
-      </div>
+    <div class="row space">
+      <br>
     </div>
     {% if site.colophon %}
     <div class="row copyright">
       <center>{{ site.colophon }}</center>
     </div>
     {% endif %}
+    <div class="row space">
+      <br>
+    </div>
   </div>
 </footer>
