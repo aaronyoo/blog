@@ -4,13 +4,20 @@ layout: default
 <div class="post">
   <div class="container main">
     <div class="row">
-      <header>
-        <br>
-        <center><span itemprop="name"><h1>{{ page.title }}</h1></span></center>
-        <center><p>{{ page.date | date: "%-d %b %Y" }}</p></center>
-        </svg></span></center>
-        <br>
-      </header>
+      <div class="col-md-1"></div>
+      <div class="col-md-8 offset-md-1">
+        <header>
+          <br>
+          <br>
+          <span itemprop="name">
+            <h1>{{ page.title }}</h1>
+          </span>
+          <h5>{{ page.date | date: "%-d %b %Y" }}</h5>
+          <br>
+        </header>
+        <div>
+        </div>
+      </div>
     </div>
     <div class="row">
       <div class="col-md-1"></div>
@@ -19,7 +26,7 @@ layout: default
           {% if page.abstract %} <b>Abstract.</b> {{ page.abstract }}<br><br>{% endif %}
           {{ content }}
         </article>
-	     </div>
-     </div>
+      </div>
+    </div>
   </div>
 </div>

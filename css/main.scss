@@ -4,16 +4,16 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
-$base-font-size:   12pt;
+$base-font-family: 'Literata', serif;
+$base-font-size:   13pt;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $mono-font-family: 'Source Code Pro', Menlo, Monaco, Inconsolata;
 
-$text-color:       hsl(0, 0%, 25%);
+$text-color:       hsl(0, 0%, 0%);
 
-$alt-color:        hsl(0, 70%, 46%);
+$alt-color:        hsl(0, 93%, 35%);
 $alt-color-darker: darken($alt-color, 6%);
 
 $article-bg-color: hsl(40, 20%, 97%);
