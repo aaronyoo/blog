@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Reasonable Faith
+title: Reasonable Faith -- Craig
 date: 2020-04-26
 comments: false
 external-url:
 categories: Books
 ---
 
-In Reasonable Faith, William Lane Craig takes the reader on a broad tour of Christian apologetics and apologetic thought as it has evolved throughout history. Starting with an appeal to the absurdity of life without God and ending with a defense of miracles, Craig samples from both offensive and defensive apologetics--providing arguments for Christian truth and defending against criticism. This book presents itself as a scholarly source of apologetic information, with its dense chapters lending itself well to study in a classroom setting or for intense personal study. Craig makes it clear through the narrative that he is not one to shy away from any credible detail fo science when defending or exploring Christian thought.
+In Reasonable Faith, William Lane Craig takes the reader on a broad tour of Christian apologetics and apologetic thought as it has evolved throughout history. Starting with an appeal to the absurdity of life without God and ending with a defense of miracles, Craig samples from both offensive and defensive apologetics--providing arguments for Christian truth and defending against criticism. This book presents itself as a scholarly source of apologetic information, with its dense chapters lending itself well to study in a classroom setting or for intense personal study. Craig makes it clear through the narrative that he is not one to shy away from any credible detail of science when defending or exploring Christian thought.
 
 My hope for this book was a thorough introduction to apologetics, as I had never read a book on apologetics before. I believe that part of my personal journey with God brought me to this book. Specifically, when I first considered placing my trust in Christ, I faced what I like to call an "intellectual barrier". Some Christians will tell you that the gospel never needs any intellectual considerations. I disagree, but in some vein, I can understand where they are coming from. Intellectual consideration of Christian truth isn't a prerequisite for being saved. The bible tells us that we are saved through the Holy Spirit and by the grace of God:
 
