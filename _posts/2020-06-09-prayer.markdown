@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prayer -- Tozer
+title: Prayer
 date: 2020-06-09
 comments: false
 external-url:

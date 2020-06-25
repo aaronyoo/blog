@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reasonable Faith -- Craig
+title: Reasonable Faith
 date: 2020-04-26
 comments: false
 external-url:
